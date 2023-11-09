@@ -1,6 +1,6 @@
 ![logo](https://github.com/shubham9182/shubham9182/blob/main/Unleash%20Your%20Coding%20Potential.png)
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<h3 align="center">A passionate Software Developer from IndiaIndia</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" 
 alt="coding" width="300"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhmaDlobnBsdmxnM3Rtenp5eGNheG9pYjM5eHVuaHRqa3dlYnR5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
 
