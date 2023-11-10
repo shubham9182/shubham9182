@@ -1,4 +1,4 @@
-![logo](https://github.com/shubham9182/shubham9182/blob/main/Unleash%20Your%20Coding%20Potential.png)
+![logo](https://github.com/shubham9182/shubham9182/blob/main/Unleash%20Your%20Coding%20Potential%20(Medium).png)
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" 
